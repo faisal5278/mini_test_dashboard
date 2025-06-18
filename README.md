@@ -65,7 +65,7 @@ streamlit run app.py
 
 ## 📸 Test Results Dashboard (UI)
 
-![Streamlit Dashboard Screenshot](screenshot.png)
+![Streamlit Dashboard Screenshot](screenshot.PNG)
 
 ---
 
