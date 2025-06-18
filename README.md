@@ -4,7 +4,6 @@ A beginner-friendly Python + SQL + Streamlit project inspired by TraceTronic's `
 This dashboard stores, filters, and displays automated test results in a web interface.
 
 ---
----
 
 ## 📸 Test Results Dashboard (UI)
 
