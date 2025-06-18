@@ -14,7 +14,6 @@ This dashboard stores, filters, and displays automated test results in a web int
 
 
 
-```
 
 ## 🚀 Features
 
